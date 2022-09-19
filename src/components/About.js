@@ -4,6 +4,9 @@ import profile from '../assets/profile.jpg';
 const About = () => {
     return (
         <section className='about'>
+            <div>
+                <h2>🚧🚧 Website under construction 🚧🚧</h2>
+            </div>
             <h2>About Me</h2>
             <p>
                 Hello. My name is Jiuk who is a Blockchain Developer & Front End Developer based in Dallas, Texas. Aside from my 
